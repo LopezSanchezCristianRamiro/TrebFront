@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\controllers\\trepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:controllers\\trepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\controllers\\graficoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:controllers\\graficoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\models\\partyvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:models\\partyvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\models\\municipality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:models\\municipality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\models\\electoraltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:models\\electoraltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\models\\electoralstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:models\\electoralstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\models\\electoralrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:models\\electoralrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|d:\\trep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7774465D-8894-469E-B98B-793FD20D992A}|TrepElectionAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElectoralTable.cs",
+              "DocumentMoniker": "D:\\Trep\\Models\\ElectoralTable.cs",
+              "RelativeDocumentMoniker": "Models\\ElectoralTable.cs",
+              "ToolTip": "D:\\Trep\\Models\\ElectoralTable.cs",
+              "RelativeToolTip": "Models\\ElectoralTable.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:33:20.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElectoralStation.cs",
+              "DocumentMoniker": "D:\\Trep\\Models\\ElectoralStation.cs",
+              "RelativeDocumentMoniker": "Models\\ElectoralStation.cs",
+              "ToolTip": "D:\\Trep\\Models\\ElectoralStation.cs",
+              "RelativeToolTip": "Models\\ElectoralStation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:33:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ElectoralRecord.cs",
+              "DocumentMoniker": "D:\\Trep\\Models\\ElectoralRecord.cs",
+              "RelativeDocumentMoniker": "Models\\ElectoralRecord.cs",
+              "ToolTip": "D:\\Trep\\Models\\ElectoralRecord.cs",
+              "RelativeToolTip": "Models\\ElectoralRecord.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:32:52.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrepController.cs",
+              "DocumentMoniker": "D:\\Trep\\Controllers\\TrepController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrepController.cs",
+              "ToolTip": "D:\\Trep\\Controllers\\TrepController.cs",
+              "RelativeToolTip": "Controllers\\TrepController.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAYwHwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:26:19.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraficosController.cs",
+              "DocumentMoniker": "D:\\Trep\\Controllers\\GraficosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GraficosController.cs",
+              "ToolTip": "D:\\Trep\\Controllers\\GraficosController.cs",
+              "RelativeToolTip": "Controllers\\GraficosController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:29:09.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Trep\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Trep\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:32:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trep\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Trep\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T19:26:46.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trep\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Trep\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:26:28.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Municipality.cs",
+              "DocumentMoniker": "D:\\Trep\\Models\\Municipality.cs",
+              "RelativeDocumentMoniker": "Models\\Municipality.cs",
+              "ToolTip": "D:\\Trep\\Models\\Municipality.cs",
+              "RelativeToolTip": "Models\\Municipality.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:33:25.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Party.cs",
+              "DocumentMoniker": "D:\\Trep\\Models\\Party.cs",
+              "RelativeDocumentMoniker": "Models\\Party.cs",
+              "ToolTip": "D:\\Trep\\Models\\Party.cs",
+              "RelativeToolTip": "Models\\Party.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:33:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartyVote.cs",
+              "DocumentMoniker": "D:\\Trep\\Models\\PartyVote.cs",
+              "RelativeDocumentMoniker": "Models\\PartyVote.cs",
+              "ToolTip": "D:\\Trep\\Models\\PartyVote.cs",
+              "RelativeToolTip": "Models\\PartyVote.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:33:33.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Province.cs",
+              "DocumentMoniker": "D:\\Trep\\Models\\Province.cs",
+              "RelativeDocumentMoniker": "Models\\Province.cs",
+              "ToolTip": "D:\\Trep\\Models\\Province.cs",
+              "RelativeToolTip": "Models\\Province.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:33:37.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
